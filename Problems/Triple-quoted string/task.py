@@ -1,5 +1,5 @@
 print('''
-""" 
-THIS IS A STRING 
+"""
+THIS IS A STRING
 """
 ''')
